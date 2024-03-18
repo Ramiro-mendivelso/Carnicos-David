@@ -269,7 +269,7 @@ td,th{
     nav{
         position: static;
     }
-    .banner, .caja, .logo, .principal, .mapa-contenido, .contenido-diferenciales, .video {
+    .caja, .principal, .mapa-contenido, .contenido-diferenciales, .video {
         width: auto;
     }
     .lista-diferenciales, .imagen-diferenciales{
